@@ -10,7 +10,7 @@ const apiEmail = "iwanaffandi77@gmail.com"; // Ganti dengan email yang kalian gu
 const accountID = "1d95ec30b1d9e490c048d62f78937f19"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "5ee58728b4ad21b8e4dd7e3e0efd8744"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "support.zoom.us";
 let cachedProxyList = [];
 
 // Constant
